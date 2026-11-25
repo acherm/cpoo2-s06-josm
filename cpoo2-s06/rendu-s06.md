@@ -120,7 +120,8 @@ Code lu : `Highways.testWrongRoundabout`, `TestError`.
 ## b. Le changement de 2016
 
 - **Ce que la solution d'après apporte (avec un exemple du diff) :** À COMPLÉTER
-- **Le patron de conception auquel elle correspond :** À COMPLÉTER
+- **Le patron de création du cours qui s'en rapproche le plus :** À COMPLÉTER
+- **Ce qui l'en distingue :** À COMPLÉTER
 
 # Question 6 : notre usage de l'IDE
 
