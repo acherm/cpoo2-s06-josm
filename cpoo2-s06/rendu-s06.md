@@ -10,6 +10,7 @@ lang: fr
      Diagrammes (questions 1, 3 et 4) : une photo du dessin sur papier, ou une
      image faite avec un outil, dans diagrammes/ (q1.jpg, q1.png ou q1.svg).
      Changez l'extension dans la ligne ![Question 1](...) si besoin.
+     Les diagrammes doivent apparaître dans le PDF : vérifiez-le avant de rendre.
 
      Pour obtenir le PDF, depuis ce dossier :
          pandoc rendu-s06.md -s --embed-resources -o rendu-s06.html

@@ -6,7 +6,7 @@ révision r19700, avec ce dossier en plus. Le sujet du TP est distribué à part
 | Fichier | À quoi il sert |
 |---|---|
 | `rendu-s06.md` | le gabarit de vos réponses, à remplir |
-| `diagrammes/` | vos diagrammes (photos ou images) |
+| `diagrammes/` | vos diagrammes (photos ou images), que le gabarit insère dans le PDF |
 | `highways-2016.diff` | le changement étudié à la question 5 |
 
 Pour fabriquer le PDF, depuis ce dossier :
