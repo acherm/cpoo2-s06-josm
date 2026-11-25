@@ -123,7 +123,9 @@ Code lu : `Highways.testWrongRoundabout`, `TestError`.
 - **Le patron de création du cours qui s'en rapproche le plus :** À COMPLÉTER
 - **Ce qui l'en distingue :** À COMPLÉTER
 
-# Question 6 : notre usage de l'IDE
+# Question 6 : ouverture
+
+## Notre usage de l'IDE
 
 | Fonction de l'IDE | Exemple précis (classe ou méthode de départ, ce qu'on a trouvé) |
 |---|---|
@@ -132,7 +134,7 @@ Code lu : `Highways.testWrongRoundabout`, `TestError`.
 | | |
 | | |
 
-# Question 7 : et avec une IA ?
+## Et avec une IA ?
 
 - **Ce qu'un assistant IA aurait pu nous apporter pour lire ce code :** À COMPLÉTER
 - **Ce que nous aurions dû vérifier nous-mêmes avant de le croire :** À COMPLÉTER
