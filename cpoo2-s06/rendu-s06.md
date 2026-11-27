@@ -8,7 +8,7 @@ lang: fr
      À COMPLÉTER doit avoir disparu avant le rendu.
 
      Diagrammes (questions 1 à 4) : ils servent de support à votre explication
-     du patron et de l'organisation du code. une photo du dessin sur papier, ou une
+     du patron et de l'organisation du code. Une photo du dessin sur papier, ou une
      image faite avec un outil, dans diagrammes/ (q1.jpg, q1.png ou q1.svg).
      Changez l'extension dans la ligne ![Question 1](...) si besoin.
      Les diagrammes doivent apparaître dans le PDF : vérifiez-le avant de rendre.
@@ -17,7 +17,7 @@ lang: fr
          pandoc rendu-s06.md -s --embed-resources -o rendu-s06.html
      puis ouvrez rendu-s06.html dans un navigateur et imprimez en PDF. -->
 
-Révision de JOSM utilisée : r19700 (`git checkout 8eaa12a5`).
+Code lu : JOSM r19700, dépôt `acherm/cpoo2-s06-josm`.
 
 # Question 1 : placer le texte d'une surface
 
