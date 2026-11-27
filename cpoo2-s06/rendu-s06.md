@@ -7,7 +7,8 @@ lang: fr
 <!-- Remplissez ce fichier, sans changer son plan. Tout ce qui est écrit
      À COMPLÉTER doit avoir disparu avant le rendu.
 
-     Diagrammes (questions 1, 3 et 4) : une photo du dessin sur papier, ou une
+     Diagrammes (questions 1 à 4) : ils servent de support à votre explication
+     du patron et de l'organisation du code. une photo du dessin sur papier, ou une
      image faite avec un outil, dans diagrammes/ (q1.jpg, q1.png ou q1.svg).
      Changez l'extension dans la ligne ![Question 1](...) si besoin.
      Les diagrammes doivent apparaître dans le PDF : vérifiez-le avant de rendre.
@@ -45,7 +46,11 @@ Patron : À COMPLÉTER
 
 Code lu : `PreferenceSettingFactory`, `GridPreference` et sa `Factory`, `PreferenceTabbedPane.buildGui`.
 
-## a. Patron de création le plus proche et rôles
+## a. Diagramme de classes
+
+![Question 2](diagrammes/q2.svg)
+
+## b. Patron de création le plus proche et rôles
 
 Patron : À COMPLÉTER
 
@@ -55,7 +60,7 @@ Patron : À COMPLÉTER
 | | |
 | | |
 
-## b. Pourquoi une liste de fabriques plutôt qu'une liste d'onglets
+## c. Pourquoi une liste de fabriques plutôt qu'une liste d'onglets
 
 À COMPLÉTER
 
