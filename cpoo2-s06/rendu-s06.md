@@ -125,7 +125,7 @@ Code lu : `Highways.testWrongRoundabout`, `TestError`.
 
 ## b. Le changement de 2016
 
-- **Ce que ce changement a apporté (avec un exemple du diff, avant et après) :** À COMPLÉTER
+- **Ce que le changement de 2016, toujours présent dans le code actuel, a apporté (avec un exemple du diff, avant et après) :** À COMPLÉTER
 - **Le patron de création du cours qui se rapproche le plus du code actuel :** À COMPLÉTER
 - **Ce qui l'en distingue :** À COMPLÉTER
 
