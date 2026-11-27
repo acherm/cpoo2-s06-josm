@@ -114,7 +114,7 @@ Code lu : `io/OsmServerWriter`, `io/OsmApi` (`createPrimitive`, `sendRequest`).
 
 Code lu : `Highways.testWrongRoundabout`, `TestError`.
 
-## a. L'ordre des appels, de `Highways` à l'objet `TestError` terminé
+## a. Dans le code actuel, l'ordre des appels de `Highways` à l'objet `TestError` terminé
 
 | Étape | Classe ou méthode |
 |---|---|
@@ -125,8 +125,8 @@ Code lu : `Highways.testWrongRoundabout`, `TestError`.
 
 ## b. Le changement de 2016
 
-- **Ce que la solution d'après apporte (avec un exemple du diff) :** À COMPLÉTER
-- **Le patron de création du cours qui s'en rapproche le plus :** À COMPLÉTER
+- **Ce que ce changement a apporté (avec un exemple du diff, avant et après) :** À COMPLÉTER
+- **Le patron de création du cours qui se rapproche le plus du code actuel :** À COMPLÉTER
 - **Ce qui l'en distingue :** À COMPLÉTER
 
 # Question 6 : ouverture
