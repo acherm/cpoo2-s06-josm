@@ -21,7 +21,7 @@ Code lu : JOSM r19700, dépôt `acherm/cpoo2-s06-josm`.
 
 # Question 1 : placer le texte d'une surface
 
-Code lu : `gui/mappaint/styleelement/placement`, `TextElement`.
+Code lu : `gui/mappaint/styleelement/placement`, `TextElement`, `StyledMapRenderer.drawText`.
 
 ## a. Diagramme de classes
 
